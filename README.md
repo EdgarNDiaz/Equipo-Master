@@ -1,49 +1,49 @@
- # Equipo-Master Semana 1 Conceptos básicos
-# Misión para esta semana
-Realizar un repositorio abarcando los conceptos aprendidos a lo largo de esta semana
+# Equipo-Master Semana 1 Conceptos Básicos
+# Misión Para Esta Semana
+Realizar Un Repositorio Abarcando Los Conceptos Aprendidos A Lo Largo De Esta Semana
 # Índice 
-- repositorio  
-- nube 
-- net
+- Repositorio  
+- Nube 
+- Net
 - Azure 
-- centro de datos 
-- programación
-- PaaS (plataforma como servicio)
-- Iaas (infraestructura como servicio) 
-- SaaS (software como servicio)
+- Centro De Datos 
+- Programación
+- Paas (Plataforma Como Servicio)
+- Iaas (Infraestructura Como Servicio) 
+- Saas (Software Como Servicio)
 - Software 
 - Hardware 
 - Middleware
-- Fuentes de datos 
-- VPN
+- Fuentes De Datos 
+- Vpn
 - Bot
-- Informatica 
+- Informática 
 - Training 
 - Servidor 
 - Código 
-- Data as a Service–Datos como servicio (DaaS)
+- Data As A Service–Datos Como Servicio (Daas)
 - Interfas 
-- Inteligencia artificial IA
-# REPOSITORIO
-Es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software.
-# NUBE
-# NET
-# AZURE
-#CENTRO DE DATOS 
-# PROGRAMACIÓN
-# PaaS PLATAFORMAS COMO SERVIOCIOS 
-#IaaS INFRAESTRUCTURA COMO SERVICIO
-# SaaS SOFTWARE COMO SERVIVICIO 
-#SOFTWARE
-#HARDWARE
-# MIDDLEWARE
-# FUENTE DE DATOS 
-# VPN
-# BOT
-# INFORMATICA
-# TRAINING
-# SERVIDOR 
-# CODIGO
-# DATA AS SERVICE-  DATOS COMO SERVIVICIO
-# INTERFAS
-# INTELIGENCIA ARTIFICIAL 
+- Inteligencia Artificial IA
+# Repositorio
+Es Un Espacio Centralizado Donde Se Almacena, Organiza, Mantiene Y Difunde Información Digital, Habitualmente Archivos Informáticos, Que Pueden Contener Trabajos Científicos, Conjuntos De Datos O Software.
+# Nube
+# Net
+# Azure
+#Centro De Datos 
+# Programación
+# Paas Plataformas Como Servicios 
+# Iaas Infraestructura Como Servicio
+# Saas Software Como Servicio 
+#Software
+#Hardware
+# Middleware
+# Fuente De Datos 
+# Vpn
+# Bot
+# Informática
+# Training
+# Servidor 
+# Código
+# Data As Service-  Datos Como Servicio
+# Interfas
+# Inteligencia Artificial
