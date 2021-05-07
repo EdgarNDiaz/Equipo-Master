@@ -9,7 +9,7 @@ Realizar un repositorio abarcando los conceptos aprendidos a lo largo de esta se
 - centro de datos 
 - programación
 - PaaS (plataforma como servicio)
-- Iaas (infraestructura informática instantánea) 
+- Iaas (infraestructura como servicio) 
 - SaaS (software como servicio)
 - Software 
 - Hardware 
@@ -25,3 +25,25 @@ Realizar un repositorio abarcando los conceptos aprendidos a lo largo de esta se
 - Interfas 
 - Inteligencia artificial IA
 # REPOSITORIO
+Es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software.
+# NUBE
+# NET
+# AZURE
+#CENTRO DE DATOS 
+# PROGRAMACIÓN
+# PaaS PLATAFORMAS COMO SERVIOCIOS 
+#IaaS INFRAESTRUCTURA COMO SERVICIO
+# SaaS SOFTWARE COMO SERVIVICIO 
+#SOFTWARE
+#HARDWARE
+# MIDDLEWARE
+# FUENTE DE DATOS 
+# VPN
+# BOT
+# INFORMATICA
+# TRAINING
+# SERVIDOR 
+# CODIGO
+# DATA AS SERVICE-  DATOS COMO SERVIVICIO
+# INTERFAS
+# INTELIGENCIA ARTIFICIAL 
